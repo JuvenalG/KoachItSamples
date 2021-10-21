@@ -1,0 +1,24 @@
+img {
+	 width: 50%;
+	 float: left;
+}
+
+p {
+	width: 50%;
+	float: right;
+}	
+
+
+
+.carousel {
+	width: 80%;
+	padding: 10%;
+	height: 200px;
+}
+
+.bottom {
+	display: flexbox;
+	padding: 10%;
+	padding-top: 300px;
+	margin: auto;
+}
